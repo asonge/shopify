@@ -26,6 +26,7 @@ defmodule Shopify.Product do
     :id,
     :images,
     :options,
+    :metafields,
     :product_type,
     :published_at,
     :published_scope,

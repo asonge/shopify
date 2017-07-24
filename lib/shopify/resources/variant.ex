@@ -15,6 +15,7 @@ defmodule Shopify.Variant do
     :inventory_management,
     :inventory_policy,
     :inventory_quantity,
+    :metafields,
     :option1,
     :option2,
     :option3,
